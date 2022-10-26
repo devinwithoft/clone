@@ -1,0 +1,24 @@
+.mid-img {
+    height: 100px;
+    width: 100px;
+}
+
+.bg-grey {
+    background-color: rgb(241, 241, 241);
+}
+
+.shoe-img {
+    height: 200px;
+    width: 450px;
+}
+
+.employ {
+    height: 200px;
+    width: 200px;
+}
+
+.blank {
+    height: 10px;
+}
+
+.col-1:hover {}
